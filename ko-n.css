@@ -1,0 +1,31 @@
+#header {
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    font-weight: 900;
+}
+#syasinn{
+    text-align: center;
+}
+#setumei{
+    margin: 2em auto;  
+    padding: 1em;
+    width: 90%; /*幅の調節*/
+    background-color: #f7f7f7; /*背景色*/
+    border: 2px solid #ccc; /*線の太さ・色*/
+    border-radius: 8px; /*角の丸み*/ 
+    font-size: 15px;
+}
+#ru-ru{
+    margin: 1em auto; 
+    padding: 1em 2em;
+    width: 100%; /*幅の調節*/
+    background-color: white; /* 背景色 */
+    border: 5px solid #f6bfbc; /*線の太さ・色*/
+    border-radius: 3em .8em 3em .7em/.9em 2em .8em 3em;
+    font-size: 20px;
+}
+#tenn{
+    font-size: 12.5px;
+}

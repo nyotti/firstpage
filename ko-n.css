@@ -1,5 +1,12 @@
 #header {
     text-align: center;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #FFF;
+    background: #6eb7ff;
+    border-bottom: solid 6px #3f87ce;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
 }
 p{
     font-size: 30px;
@@ -28,4 +35,16 @@ p{
 }
 #tenn{
     font-size: 12.5px;
+}
+h1{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #232323;
+    background: #fff8e8;
+    border-left: solid 10px #ffc06e;
+}
+#kekka{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #c0c0c06c;/*背景色*/
 }

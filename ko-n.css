@@ -5,7 +5,6 @@ body{
 .box{
     float: none;
     width: auto;
-
     background-color: white;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -40,10 +39,10 @@ p{
     color: #ffc06e;
     font-weight: bold;
 }
-#tenn{
+.tenn{
     font-size: 12.5px;
 }
-#kekka{
+.kekka{
     padding: 0.5em 1em;
     margin: 2em 0;
     background: #c0c0c06c;
@@ -64,13 +63,13 @@ h3{
 }
 .subbox{
     float: right;
+    width: 200px;
 
     background-color: white;
     margin-right: 50px;
     margin-left: 50px;
     border-radius: 10px;
     padding: 10px;
-    width: 200px;
 }
 pre{
     font-size: 17.5px;
